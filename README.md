@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Welcome to your Lovable project
 
 ## Project info
@@ -76,3 +77,7 @@ Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/c
 # ayurveda_hack
 ayurveda hackathon mangalore ayush hubba
 >>>>>>> f0d1cd1135302bca22d6579b354fa7ce483b6696
+=======
+# ayurveda_hack-2-
+pranav ayurbeda hack version
+>>>>>>> 8cac8268870cfc9fd9b82bfd1acbd13bffd58648
